@@ -68,8 +68,8 @@ header nav li a {
 }
 
 .social li a {
-    width: 3.2rem;
-    height: 3.2rem;
+    width: 32px;
+    height: 32px;
     display: inline-block;
     background: url(../Assets/naviconMob.png) 0 0 no-repeat;
     background-size: 200px 500px;
@@ -100,7 +100,7 @@ header nav li a {
  .logo {
     height: 92px;
     width: 62px;
-    background: url(../Assets/navicon.png) 0px -93px no-repeat;
+    background: url(../Assets/naviconMob.png) 20px -180px no-repeat;
     background-size: 200px 1200px;
  }
  header .icon-nav {
