@@ -138,21 +138,12 @@ h1{
     overflow: hidden
 }
 .pht6{
-    margin: 0px 120px;
-    padding-top: 32px;
-    align-items: center;
-    justify-content: space-between;
+    display: flex;
+    flex-flow: row wrap;
 }
 .pht6 a{
-    background-clip: padding-box;
-    box-shadow: 0 1px 4px 0px rgba(0, 0, 0, 0.2);
-    border-radius: 4px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
-
+    display: grid;
+    grid-column: 1;
 }
 @media screen and (max-width: 1080px) {
     .hd.row{
