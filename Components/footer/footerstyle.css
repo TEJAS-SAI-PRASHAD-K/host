@@ -12,6 +12,12 @@ footer a {
     text-decoration: none;
 }
 
+footer .left {
+    float: none !important;
+}
+ul {
+    box-sizing: border-box;
+}
 footer nav {
     display: none;
 }

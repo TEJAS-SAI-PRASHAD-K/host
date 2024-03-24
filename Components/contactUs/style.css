@@ -6,10 +6,7 @@
     display: flex;
     text-decoration: none;
 }
-.social-disc li a.twitter{
-    background-position: 0px -598px;
-    color: #189ACD;
-}
+
 .social-disc li a.facebook {
     background-position: 0px -547px;
     color: #43609c;
