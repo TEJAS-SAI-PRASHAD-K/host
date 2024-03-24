@@ -6,7 +6,7 @@
 .logo {
     height: 62px;
     width: 40px;
-    background: url(../Assets/naviconMob.png) 0px -63px no-repeat;
+    background: url(../../Assets/naviconMob.png) 0px -63px no-repeat;
     background-size: 200px 500px;
     display: block;
     text-indent: -9999px;
@@ -16,7 +16,7 @@
     width: 27px;
     height: 62px;
     float: right;
-    background: url(../Assets/naviconMob.png) -42px -63px no-repeat;
+    background: url(../../Assets/naviconMob.png) -42px -63px no-repeat;
     background-size: 200px 500px;
     display: block;
     text-indent: -9999px;
@@ -71,7 +71,7 @@ header nav li a {
     width: 32px;
     height: 32px;
     display: inline-block;
-    background: url(../Assets/naviconMob.png) 0 0 no-repeat;
+    background: url(../../Assets/naviconMob.png) 0 0 no-repeat;
     background-size: 200px 500px;
     text-indent: -9999px;
     cursor: pointer;
@@ -86,9 +86,6 @@ header nav li a {
 .social .facebook a {
     background-position: 0px -186px;
 }
-.social .instagram a {
-    background-position: -163px -186px;
-}
 
 
 @media only screen and (min-width: 830px){
@@ -100,7 +97,7 @@ header nav li a {
  .logo {
     height: 92px;
     width: 62px;
-    background: url(../Assets/naviconMob.png) 20px -180px no-repeat;
+    background: url(../../Assets/naviconMob.png) 20px -180px no-repeat;
     background-size: 200px 1200px;
  }
  header .icon-nav {
