@@ -1,0 +1,72 @@
+.avatar img {
+    width: 100%;
+    height: auto;
+}
+
+.aboutusContainer{
+    margin: 0 20%;
+    display: none;
+}
+.aboutusContainer .content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.IconGrid {
+    border-top: #dddddd 1px solid;
+    justify-content: space-between;
+    padding-top: 2rem;
+}
+.imageframe{
+    width: 13%;
+}
+.imageframe img {
+    width: 100%;
+    height: auto;
+    border: white 5px solid;
+    border-radius: 6px;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+.randomFacts img{
+    width: 100%;
+    height: auto;
+}
+
+.randomFacts ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0;
+    line-height: 1.5;
+}
+.randomFacts .content{
+    margin-left: 36px;
+}
+
+.randomFacts{
+    justify-content: space-evenly;
+    align-items: center;
+    display: none;
+}
+.mystory{
+    position: relative;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.mystory .mainbaner{
+    width: 30%;
+    height: auto;
+}
+.mystory .thumbnail{
+    position: absolute;
+    right: 25%;
+    top: 0px;
+    bottom: 0;
+    margin: auto;
+    width: 10%;
+    z-index: 1;
+}
+.mystory .content{
+    width: 40%;
+}
