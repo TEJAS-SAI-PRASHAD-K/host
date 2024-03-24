@@ -24,3 +24,13 @@
 .col-sm-2{width:16.66666667%}
 .col-sm-1{width:8.33333333%}
 }
+
+body{
+    font-family: MetroRegular;
+    color: #2d2d2d;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
