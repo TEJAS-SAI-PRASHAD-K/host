@@ -30,11 +30,14 @@ Programming
 Random facts -
 
 Created and commanded an army of microservices
-Creator of fruit infused chocolates Full time Azure Ninja
-Conquering the ancient •NET in battlefieldCoffee: my constant companion.
-Dance is my happy place, my sanctuary.Unit testing? No headache here.
+Creator of fruit infused chocolates 
+Full time Azure Ninja
+Conquering the ancient •NET in battlefield
+Coffee: my constant companion.
+Dance is my happy place, my sanctuary.
+Unit testing? No headache here.
 
-How I spend day day
+How I spend my day
 
 1. Overthinking
 2. Sipping coffee

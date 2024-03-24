@@ -5,7 +5,6 @@
 
 .aboutusContainer{
     margin: 0 20%;
-    display: none;
 }
 .aboutusContainer .content{
     display: flex;
@@ -47,12 +46,12 @@
 .randomFacts{
     justify-content: space-evenly;
     align-items: center;
-    display: none;
 }
 .mystory{
     position: relative;
     justify-content: space-between;
     flex-direction: row-reverse;
+   
 }
 .mystory .mainbaner{
     width: 30%;
@@ -69,4 +68,46 @@
 }
 .mystory .content{
     width: 40%;
+}
+
+.skillContainer{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.skillContainer > div {
+    background-color: white;
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    padding: 20px;
+    width: 40%;
+}
+
+.skillContainer > div > ul{
+    padding: 1rem;
+    list-style-type: disc;
+    margin: 0;
+}
+
+.skillContainer > div p{
+    position: relative;
+}
+
+.skillContainer > div p::after{
+    content: "";
+    position: absolute;
+    align-self: center;
+    display: flex;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    z-index: 1;
+    background-image: url(../../Assets/logos/github-svgrepo-com.svg);
 }

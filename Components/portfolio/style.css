@@ -1,0 +1,12 @@
+.portfolioItem img{
+    width: 40%;
+    height: auto;
+}
+.portfolioItem .content{
+    width: 40%;
+}
+.portfolioItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
